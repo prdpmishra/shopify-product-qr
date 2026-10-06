@@ -201,6 +201,15 @@ Create a local `.env` file using `.env.example`.
 
 ![Admin Dashboard](docs/dashboard.png)
 
+### Create QR Code
+![Create QR](docs/create.png)
+
+### Update QR Code
+![Update QR](docs/update.png)
+
+### View QR Code
+![View QR](docs/view.png)
+
 ### Storefront QR Code
 
 ![Storefront QR](docs/storefront.png)
