@@ -1,0 +1,19 @@
+{
+    "name": "prdpk/shopify-qr-app",
+    "autoload": {
+        "psr-4": {
+            "Prdpk\\ShopifyQrApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pradeep Mishra",
+            "email": "prdpkmishra@gmail.com"
+        }
+    ],
+    "require": {
+        "shopify/shopify-app-php": "^1.0",
+        "vlucas/phpdotenv": "^5.7",
+        "chillerlan/php-qrcode": "^6.0"
+    }
+}

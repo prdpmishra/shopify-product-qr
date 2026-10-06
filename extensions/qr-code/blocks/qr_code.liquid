@@ -1,0 +1,15 @@
+<div id="product-qr-code" data-product-id="{{ product.id }}" data-default-variant-id="{{ product.selected_or_first_available_variant.id }}" data-variant-id="{{ product.selected_variant.id }}">
+Loading...
+</div>
+
+<script src="{{ 'common.js' | asset_url }}" defer="defer"></script>
+
+{% schema %}
+{
+  "name": "QR Code",
+  "target": "section",
+  "templates": ["product"],
+  "settings": []
+}
+{% endschema %}
+

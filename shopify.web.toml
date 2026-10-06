@@ -1,0 +1,8 @@
+name = "QR Code Manager"
+
+roles = ["frontend", "backend"]
+
+webhooks_path = "/webhooks/app-uninstalled"
+
+[commands]
+dev = "php serve.php"
