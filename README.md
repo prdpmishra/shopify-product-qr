@@ -195,6 +195,16 @@ Sensitive credentials are intentionally excluded from this repository.
 
 Create a local `.env` file using `.env.example`.
 
+## Screenshots
+
+### Admin Dashboard
+
+![Admin Dashboard](docs/dashboard.png)
+
+### Storefront QR Code
+
+![Storefront QR](docs/storefront.png)
+
 Never commit:
 
 * Shopify API secrets
